@@ -1,4 +1,4 @@
-# hello-world-package
+# mutter-test-package
 
 This is a test react package created by `@asxyzp`  which is to be primarily used for demostrating the process of development and publishing of react packages.
 
