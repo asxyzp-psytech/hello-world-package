@@ -1,7 +1,6 @@
 //IMPORTING PACKAGES AND MODULES
-// import Badge from './library/components/Badge';
-// import Button from './library/components/Button';
-import {Badge, Button} from 'mutter-test-package';
+import Badge from './library/components/Badge';
+import Button from './library/components/Button';
 
 const App = () => {
   return (<>
