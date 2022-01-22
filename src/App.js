@@ -1,10 +1,11 @@
 //IMPORTING PACKAGES AND MODULES
-import {Badge, Button} from 'mutter-test-package';
+import Badge from './library/components/Badge';
+import Button from './library/components/Button';
 
 const App = () => {
   return (<>
 
-    <h1 className="m-3 fw-bolder">hello-world-package test</h1>
+    <h1 className="m-3 fw-bolder">mutter-test-package</h1>
 
     {/* TESTING BADGE COMPONENT */}
     <h2 className="ms-3 fw-bolder">Badges</h2>
