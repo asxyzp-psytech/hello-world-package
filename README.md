@@ -2,7 +2,7 @@
 
 This is a test react package created by `@asxyzp`  which is to be primarily used for demostrating the process of development and publishing of react packages.
 
-![Package ouptut](https://i.ibb.co/Y73thCg/hello-world-package.png "Testing package's output")
+![Package ouptut](https://i.ibb.co/HY0dq20/mutter-test-package.png "Testing package's output")
 
 ## Available React Components
 ### 1. `<Badge/>`
